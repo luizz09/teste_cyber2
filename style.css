@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(121, 31, 31);
+    color: white;
+    font-size: 32px;
+    text-align: center;
+}
+
+nav a{
+    margin-right: 32px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: midnightblue;
+    padding: 4px 4px;
+    border-radius: 8px;
+}
+
+img{
+    width: 360px;
+    height: 500px;
+    border-radius: 32px;
+}
